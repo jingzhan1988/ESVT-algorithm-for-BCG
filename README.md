@@ -12,6 +12,4 @@ The code used in this project is `Analysis.ipynb`, which is a Python code in Jup
 
 A simulation data is placed in the Github repository, which is placed in the `dataset_simulation` folder. This simulation data is in MATLAB format and is used in detail in the `Analysis.ipynb` code.
 
-You can access the complete dataset of this project through the following link.
-
-https://doi.org/10.6084/m9.figshare.28416896
+If you need the complete dataset, please feel free to contact the author by email. Or after the article is accepted by the journal, this project will update the data acquisition method here.
