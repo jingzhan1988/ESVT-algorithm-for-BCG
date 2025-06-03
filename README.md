@@ -13,3 +13,5 @@ The code used in this project is `Analysis.ipynb`, which is a Python code in Jup
 A simulation data is placed in the Github repository, which is placed in the `dataset_simulation` folder. This simulation data is in MATLAB format and is used in detail in the `Analysis.ipynb` code.
 
 If you need the complete dataset, please feel free to contact the author by email. Or after the article is accepted by the journal, this project will update the data acquisition method here.
+
+This dataset and code have been accepted by Scientific Data on May 28, 2025. Upon publication, you can download the article and access the dataset directly via the journal’s website.
